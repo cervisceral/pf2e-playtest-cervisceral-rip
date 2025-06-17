@@ -218,7 +218,7 @@
         }
     ],
     "manifest": "https://raw.githubusercontent.com/cervisceral/pf2e-playtest-cervisceral-rip/refs/heads/main/pf2e%20playtest%20data%20arcade%20rip.json",
-    "download": "https://github.com/cervisceral/pf2e-playtest-cervisceral-rip/blob/main/pf2e%20playtest%20data%20arcade%20rip.zip",
+    "download": "https://raw.githubusercontent.com/cervisceral/pf2e-playtest-cervisceral-rip/refs/heads/main/pf2e%20playtest%20data%20arcade%20rip.json",
     "url": "https://github.com/cervisceral/pf2e-playtest-cervisceral-rip/",
     "authors": [
         {
